@@ -1,4 +1,4 @@
-package kr.pe.junho85.spring;
+package kr.pe.junho85.spring.ch06;
 
 import org.junit.Test;
 
